@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_notification_details_title">8dp</dimen>
+    <dimen name="notification_details_title_textSize">24sp</dimen>
+    <dimen name="margin_notification_details_description">8dp</dimen>
+</resources>

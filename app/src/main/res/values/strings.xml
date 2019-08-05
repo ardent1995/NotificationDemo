@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="trigger_notification">Trigger Notification</string>
+    <string name="notification_details_title">Notification Details Title</string>
+    <string name="NEWS_CHANNEL_ID">news</string>
+    <string name="CHANNEL_NEWS">News</string>
+    <string name="CHANNEL_DESCRIPTION">Get informed with new updates</string>
+    <string name="update_notification">Update Notification</string>
+    <string name="cancel_notification">Cancel Notification</string>
+    <string name="intermediate_activity">Intermediate Activity</string>
+    <string name="DEBUG_TAG">FCM</string>
+</resources>
